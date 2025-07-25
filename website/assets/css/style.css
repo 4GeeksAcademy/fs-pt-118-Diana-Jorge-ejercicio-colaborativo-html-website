@@ -1,1 +1,6 @@
-;
+.pf-img {
+
+    width: 100%; /* Ajusta el ancho al contenedor */
+  height: 100%; /* Ajusta el alto al contenedor */
+  object-fit: cover; /* Mantiene la proporción de la imagen */
+}
